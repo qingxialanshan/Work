@@ -1,0 +1,1 @@
+# uninstaller for AW
