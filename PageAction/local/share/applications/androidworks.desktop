@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=AndroidWorks Component Manager
+GenericName=AndroidWorks Component Manager
+Icon=tmp/TegraDeveloperKit.ico
+Exec=tmp/Chooser
+TryExec=tmp/Chooser
+Keywords=androidworks;nvidia;
+Terminal=No
+Categories=Development;
